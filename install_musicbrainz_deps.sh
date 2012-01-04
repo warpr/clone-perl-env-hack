@@ -1,5 +1,7 @@
 #!/bin/bash
 set +e
+cpanm --notest Class-MOP-1.12.tar.gz
+cpanm --notest Moose-1.24.tar.gz
 cpanm --notest URI-1.58.tar.gz
 cpanm --notest XML-Generator-1.03.tar.gz
 cpanm --notest Test-Harness-3.23.tar.gz
@@ -19,6 +21,7 @@ cpanm --notest Test-LongString-0.15.tar.gz
 cpanm --notest HTTP-Server-Simple-0.43.tar.gz
 cpanm --notest Config-Any-0.20.tar.gz
 cpanm --notest boolean-0.26.tar.gz
+cpanm --notest parent-0.225.tar.gz
 cpanm --notest UNIVERSAL-isa-1.03.tar.gz
 cpanm --notest Email-Valid-0.184.tar.gz
 cpanm --notest Data-Dumper-Concise-2.020.tar.gz
@@ -39,10 +42,10 @@ cpanm --notest IPC-Run3-0.044.tar.gz
 cpanm --notest POE-Component-IRC-Plugin-CSS-Minifier-0.0101.tar.gz
 cpanm --notest XML-XPath-1.13.tar.gz
 cpanm --notest File-NFSLock-1.20.tar.gz
-cpanm --notest ANSIColor-3.00.tar.gz
 cpanm --notest Test-Unit-Lite-0.12.tar.gz
 cpanm --notest XML-Simple-2.18.tar.gz
 cpanm --notest FCGI-0.71.tar.gz
+cpanm --notest JSON-2.53.tar.gz
 cpanm --notest JSON-Any-1.26.tar.gz
 cpanm --notest String-CRC32-1.4.tar.gz
 cpanm --notest Class-Factory-Util-1.7.tar.gz
@@ -61,7 +64,6 @@ cpanm --notest Compress-Raw-Bzip2-2.033.tar.gz
 cpanm --notest Text-Aligner-0.07.tar.gz
 cpanm --notest Text-Trim-1.02.tar.gz
 cpanm --notest Module-Util-1.07.tar.gz
-cpanm --notest JSON-2.51.tar.gz
 cpanm --notest Try-Tiny-0.09.tar.gz
 cpanm --notest B-Keywords-1.10.tar.gz
 cpanm --notest Javascript-Closure-0.07.tar.gz
@@ -89,8 +91,8 @@ cpanm --notest XML-XPathEngine-0.12.tar.gz
 cpanm --notest IO-Zlib-1.10.tar.gz
 cpanm --notest HTTP-Cache-Transparent-1.0.tar.gz
 cpanm --notest Class-Data-Inheritable-0.08.tar.gz
-cpanm --notest Email-Simple-2.100.tar.gz
 cpanm --notest Probe-Perl-0.01.tar.gz
+cpanm --notest Email-Simple-2.100.tar.gz
 cpanm --notest Module-Signature-0.66.tar.gz
 cpanm --notest Class-Accessor-Fast-XS-0.04.tar.gz
 cpanm --notest Data-Dumper-2.128.tar.gz
@@ -203,6 +205,7 @@ cpanm --notest MooseX-SemiAffordanceAccessor-0.09.tar.gz
 cpanm --notest MooseX-Singleton-0.26.tar.gz
 cpanm --notest Fatal-Exception-0.05.tar.gz
 cpanm --notest Throwable-0.102080.tar.gz
+cpanm --notest Class-MOP-1.12.tar.gz
 cpanm --notest Method-Signatures-Simple-0.06.tar.gz
 cpanm --notest MooseX-Role-Parameterized-0.25.tar.gz
 cpanm --notest namespace-clean-0.20.tar.gz
@@ -217,6 +220,7 @@ cpanm --notest Params-Validate-0.95.tar.gz
 cpanm --notest Test-Mock-Class-0.0303.tar.gz
 cpanm --notest UNIVERSAL-can-1.16.tar.gz
 cpanm --notest XML-SemanticDiff-1.0000.tar.gz
+cpanm --notest App-cpanminus-1.5007.tar.gz
 cpanm --notest Text-Glob-0.09.tar.gz
 cpanm --notest Module-ScanDeps-1.01.tar.gz
 cpanm --notest Test-Exception-0.31.tar.gz
@@ -255,6 +259,7 @@ cpanm --notest File-ChangeNotify-0.19.tar.gz
 cpanm --notest Test-Aggregate-0.364.tar.gz
 cpanm --notest MooseX-Types-0.25.tar.gz
 cpanm --notest RDF-Trine-0.134_01.tar.gz
+cpanm --notest local-lib-1.008004.tar.gz
 cpanm --notest MooseX-Getopt-0.37.tar.gz
 cpanm --notest Tree-Simple-VisitorFactory-0.10.tar.gz
 cpanm --notest MooseX-Types-Common-0.001002.tar.gz

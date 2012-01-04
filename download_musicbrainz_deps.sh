@@ -1,6 +1,7 @@
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/T/TY/TYEMQ/Algorithm-Diff-1.1902.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/J/JS/JSMITH/Algorithm-Merge-0.08.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/H/HI/HISSO/Alien-SeleniumRC-1.03.tar.gz
+wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/M/MI/MIYAGAWA/App-cpanminus-1.5007.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/A/AB/ABW/AppConfig-1.66.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/B/BI/BINGOS/Archive-Tar-1.76.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/A/AD/ADAMK/Archive-Zip-1.30.tar.gz
@@ -89,7 +90,7 @@ wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/M/MS/MSHELOR/Digest-
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/D/DO/DOY/Dist-CheckConflicts-0.02.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/R/RJ/RJBS/Email-Abstract-3.004.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/R/RJ/RJBS/Email-Address-1.892.tar.gz
-wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/R/RJ/RJBS/Email-MIME-1.907.tar.gz
+wget -c http://backpan.perl.org/authors/id/R/RJ/RJBS/Email-MIME-1.907.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/R/RJ/RJBS/Email-MIME-ContentType-1.015.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/R/RJ/RJBS/Email-MIME-Encodings-1.313.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/R/RJ/RJBS/Email-MessageID-1.402.tar.gz
@@ -137,7 +138,7 @@ wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/C/CH/CHORNY/Hook-Lex
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/I/IN/INGY/IO-All-0.41.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/T/TO/TOMHUGHES/IO-Zlib-1.10.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/R/RJ/RJBS/IPC-Run3-0.044.tar.gz
-wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/M/MA/MAKAMAKA/JSON-2.51.tar.gz
+wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/M/MA/MAKAMAKA/JSON-2.53.tar.gz
 wget -c http://backpan.perl.org/authors/id/P/PE/PERIGRIN/JSON-Any-1.26.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/M/MA/MAKAMAKA/JSON-PP-2.27105.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/M/ML/MLEHMANN/JSON-XS-2.32.tar.gz
@@ -230,7 +231,7 @@ wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/D/DE/DEXTER/Test-Ass
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/R/RJ/RJBS/Test-Deep-0.108.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/O/OV/OVID/Test-Differences-0.500.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/A/AD/ADIE/Test-Exception-0.31.tar.gz
-wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/R/RJ/RJBS/Test-Fatal-0.003.tar.gz
+wget -c http://backpan.perl.org/authors/id/R/RJ/RJBS/Test-Fatal-0.003.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/A/AN/ANDYA/Test-Harness-3.23.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/O/OV/OVID/Test-JSON-0.11.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/R/RG/RGARCIA/Test-LongString-0.15.tar.gz
@@ -246,7 +247,7 @@ wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/A/AD/ADAMK/Test-NoWa
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/A/AD/ADAMK/Test-Object-0.07.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/P/PE/PETDANCE/Test-Pod-Coverage-1.08.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/T/TO/TOKUHIROM/Test-Requires-0.06.tar.gz
-wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/R/RJ/RJBS/Test-Routine-0.009.tar.gz
+wget -c http://backpan.perl.org/authors/id/R/RJ/RJBS/Test-Routine-0.009.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/A/AD/ADAMK/Test-Script-1.07.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/M/MS/MSCHWERN/Test-Simple-0.98_01.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/A/AD/ADAMK/Test-SubCalls-1.09.tar.gz
@@ -299,5 +300,7 @@ wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/A/AD/ADAMK/YAML-Tiny
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/I/IN/INGY/boolean-0.26.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/M/ML/MLEHMANN/common-sense-3.4.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/D/DE/DEXTER/constant-boolean-0.02.tar.gz
+wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/A/AP/APEIRON/local-lib-1.008004.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/F/FL/FLORA/namespace-clean-0.20.tar.gz
+wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/C/CO/CORION/parent-0.225.tar.gz
 wget -c ftp://download.xs4all.nl/pub/mirror/CPAN/authors/id/J/JP/JPEACOCK/version-0.88.tar.gz

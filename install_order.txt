@@ -17,6 +17,7 @@ Test-LongString-0.15.tar.gz
 HTTP-Server-Simple-0.43.tar.gz
 Config-Any-0.20.tar.gz
 boolean-0.26.tar.gz
+parent-0.225.tar.gz
 UNIVERSAL-isa-1.03.tar.gz
 Email-Valid-0.184.tar.gz
 Data-Dumper-Concise-2.020.tar.gz
@@ -37,10 +38,10 @@ IPC-Run3-0.044.tar.gz
 POE-Component-IRC-Plugin-CSS-Minifier-0.0101.tar.gz
 XML-XPath-1.13.tar.gz
 File-NFSLock-1.20.tar.gz
-ANSIColor-3.00.tar.gz
 Test-Unit-Lite-0.12.tar.gz
 XML-Simple-2.18.tar.gz
 FCGI-0.71.tar.gz
+JSON-2.53.tar.gz
 JSON-Any-1.26.tar.gz
 String-CRC32-1.4.tar.gz
 Class-Factory-Util-1.7.tar.gz
@@ -59,7 +60,6 @@ Compress-Raw-Bzip2-2.033.tar.gz
 Text-Aligner-0.07.tar.gz
 Text-Trim-1.02.tar.gz
 Module-Util-1.07.tar.gz
-JSON-2.51.tar.gz
 Try-Tiny-0.09.tar.gz
 B-Keywords-1.10.tar.gz
 Javascript-Closure-0.07.tar.gz
@@ -216,6 +216,7 @@ Params-Validate-0.95.tar.gz
 Test-Mock-Class-0.0303.tar.gz
 UNIVERSAL-can-1.16.tar.gz
 XML-SemanticDiff-1.0000.tar.gz
+App-cpanminus-1.5007.tar.gz
 Text-Glob-0.09.tar.gz
 Module-ScanDeps-1.01.tar.gz
 Test-Exception-0.31.tar.gz
@@ -254,6 +255,7 @@ File-ChangeNotify-0.19.tar.gz
 Test-Aggregate-0.364.tar.gz
 MooseX-Types-0.25.tar.gz
 RDF-Trine-0.134_01.tar.gz
+local-lib-1.008004.tar.gz
 MooseX-Getopt-0.37.tar.gz
 Tree-Simple-VisitorFactory-0.10.tar.gz
 MooseX-Types-Common-0.001002.tar.gz

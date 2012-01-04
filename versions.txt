@@ -1,6 +1,7 @@
 Algorithm::Diff 1.1902
 Algorithm::Merge 0.08
 Alien::SeleniumRC 1.03
+App::cpanminus 1.5007
 AppConfig 1.66
 Archive::Tar 1.76
 Archive::Zip 1.30
@@ -139,7 +140,7 @@ IO::All 0.41
 IO::Compress 
 IO::Zlib 1.10
 IPC::Run3 0.044
-JSON 2.51
+JSON 2.53
 JSON::Any 1.26
 JSON::PP 2.27105
 JSON::XS 2.3
@@ -303,8 +304,11 @@ XML::XPathEngine 0.12
 YAML 0.72
 YAML::Tiny 1.48
 boolean 0.26
+carton 
 common::sense 3.4
 constant::boolean 0.02
 libintl-perl 
+local::lib 1.008004
 namespace::clean 0.20
+parent 0.225
 version 0.88
